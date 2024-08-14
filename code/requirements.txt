@@ -3,5 +3,4 @@ hmac
 pandas
 sqlalchemy 
 google.cloud
-json
 tempfile
