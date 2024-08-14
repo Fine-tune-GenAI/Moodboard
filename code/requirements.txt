@@ -1,7 +1,6 @@
 streamlit
 hmac
 pandas
-PIL
 sqlalchemy 
 google.cloud
 json
