@@ -1,4 +1,4 @@
 streamlit
 pandas
 sqlalchemy 
-google-cloud
+google-cloud-storage
