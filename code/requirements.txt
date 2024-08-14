@@ -1,0 +1,9 @@
+streamlit
+hmac
+os
+pandas
+PIL
+sqlalchemy 
+google.cloud
+json
+tempfile
