@@ -2,5 +2,4 @@ streamlit
 pandas
 sqlalchemy 
 google-cloud-storage
-psycopg2
-psycopg2-binary
+
