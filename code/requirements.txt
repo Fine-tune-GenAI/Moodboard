@@ -1,6 +1,5 @@
 streamlit
 hmac
-os
 pandas
 PIL
 sqlalchemy 
